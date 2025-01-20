@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Alo",
+      "email": "john.salom@example.com",
+      "age": "30",
+      "img": "/src/assets/p1.jpeg",
+      "job": "Front End Developer",
+      "phone": "12232535",
+      "status": true
+    },
+    {
+      "id": "1737105497897",
+      "name": "i23jefwdcsj",
+      "email": "2oiwjdcij",
+      "age": "",
+      "job": "Back End Developer",
+      "phone": "1244234",
+      "status": true
+    },
+    {
+      "id": "1737105898039",
+      "name": "Anush",
+      "email": "adspokkdvd",
+      "age": "20",
+      "job": "Back End Developer",
+      "phone": "214235432",
+      "status": false
+    }
+  ]
+}
